@@ -12,4 +12,4 @@ const student1= {
     console.log('ojects are equal');
   } else {
     console.log('objects are NOT equal');
-  }
+  } 
